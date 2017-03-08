@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/EstadoJuego/GameState.java</file>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/Entity/MapObject.java</file>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/TileMap/TileMap.java</file>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/Entity/Player.java</file>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/Entity/Animation.java</file>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/EstadoJuego/ManejadorEstadoJuego.java</file>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/Main/Juego.java</file>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/EstadoJuego/Level1State.java</file>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/EstadoJuego/MenuState.java</file>
+            <file>file:/C:/Users/Edgar1/Documents/NetBeansProjects/Juego/src/resources/Maps/level1-1.map</file>
+        </group>
+    </open-files>
+</project-private>
